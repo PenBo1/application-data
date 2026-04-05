@@ -1,0 +1,22 @@
+# Application UUID and Status Configuration
+# Generated at: 2026-04-05T07:46:39.257Z
+# DO NOT MODIFY MANUALLY
+
+uuid: "3a83120d-b04d-42ae-9652-76de2ea8d888"
+version: "1.2.0"
+app_name: "rpapower"
+generated_at: "2026-04-05T07:46:39.257Z"
+
+# Status Configuration (from status.json.example)
+status:
+  enabled: true
+  heartbeat_interval: 300
+  
+  message:
+    show: false
+    content: ""
+
+  maintenance:
+    start: ""
+    end: ""
+    reason: ""
