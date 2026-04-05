@@ -9,7 +9,7 @@ generated_at: "2026-04-05T07:46:39.257Z"
 
 # Status Configuration (from status.json.example)
 status:
-  enabled: false
+  enabled: true
   heartbeat_interval: 300
   
   message:
